@@ -1,0 +1,2 @@
+# healthifyme.ubpages
+subdomain takeover
